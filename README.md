@@ -1,4 +1,4 @@
-# Hermes Google Access — OAuth verification site
+# jun-hermes — OAuth verification site
 
 Static site for Google OAuth app verification (brand + sensitive-scope review).
 
@@ -12,7 +12,7 @@ Static site for Google OAuth app verification (brand + sensitive-scope review).
 
 | Console field | Value |
 | --- | --- |
-| App name | `Hermes Google Access` (must match the site's name everywhere) |
+| App name | `jun-hermes` (must match the site's name everywhere) |
 | Application home page | `https://<domain>/` |
 | Privacy policy | `https://<domain>/privacy` |
 | Terms of service | `https://<domain>/terms` |
