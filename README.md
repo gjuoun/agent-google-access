@@ -13,11 +13,11 @@ Static site for Google OAuth app verification (brand + sensitive-scope review).
 | Console field | Value |
 | --- | --- |
 | App name | `jun-hermes` (must match the site's name everywhere) |
-| Application home page | `https://<domain>/` |
-| Privacy policy | `https://<domain>/privacy` |
-| Terms of service | `https://<domain>/terms` |
-| Authorized domain | root domain (`<domain>`), verified in Search Console |
-| Redirect URI | `<domain>/oauth2/callback` (in addition to the desktop `http://localhost` loopback) |
+| Application home page | `https://jun-hermes.qqntt.com/` |
+| Privacy policy | `https://jun-hermes.qqntt.com/privacy` |
+| Terms of service | `https://jun-hermes.qqntt.com/terms` |
+| Authorized domain | `qqntt.com`, verified in Search Console |
+| Redirect URI | `https://jun-hermes.qqntt.com/oauth2/callback` (plus the desktop `http://localhost` loopback) |
 
 ## Custom domain
 
